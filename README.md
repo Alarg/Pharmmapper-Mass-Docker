@@ -15,3 +15,5 @@ Copy the desired version of AutoDock Vina and paste it in lib folder of the scri
 ./wrapper.sh <url>
 ```
 Where `<url>` represents the link to a completed Pharmmapper job.
+
+Ligands to be docked are to be put in the same folder where the script is extracted to.
